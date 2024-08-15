@@ -1,0 +1,24 @@
+.mainContainer{
+    max-width: 60%;
+    margin-left: 50vh;
+    margin-right: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainContainer h1{
+    font-size: 4rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-top: 1.5em;
+}
+
+.mainContainer p{
+    font-size: 1.2em;
+}
+
+.mainContainer p span{
+    color: #00847C;
+}
