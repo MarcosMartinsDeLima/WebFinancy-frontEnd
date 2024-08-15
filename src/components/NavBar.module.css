@@ -50,3 +50,13 @@
     border-radius: 10px;
     
 }
+
+.navBar img{
+    max-width: 50px;
+    max-height: 50px;
+    margin-top: -10px;
+}
+
+.navBar img:hover{
+    opacity: 0.5;
+}
