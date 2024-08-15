@@ -1,0 +1,52 @@
+.navBar{
+    display: flex;
+    box-shadow: -19px -9px 29px -3px rgba(0,0,0,0.72);
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.4em 2em;
+}
+
+.navBar a{
+    text-decoration: none;
+}
+
+.navBar .marca{
+     font-size: 1.2em;
+     font-weight: bold;
+}
+
+.navBar .marca span{
+    color: #00847C;
+}
+
+.navBar ul{
+    list-style: none;
+    display: flex;
+
+}
+
+.navBar ul li{
+    margin-right: 1.5em;
+}
+
+.navBar .criar{
+    background-color: #00847C;
+    color: #fff;
+    padding:15px 20px;
+    border-radius: 10px;
+}
+
+.navBar .criar:hover{
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+}
+
+.navBar .entrar:hover{
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+    padding:15px 20px;
+    border-radius: 10px;
+    
+}
